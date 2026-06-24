@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech Computer Science & Engineering student at Maharaja Agrasen Institute of Technology, New Delhi.<br><br>💻 Passionate about Software Development, Data Structures & Algorithms, and building efficient backend systems. I enjoy solving problems, designing scalable solutions, and continuously learning new technologies.
+🎓 I'm currently pursuing a B.Tech in Computer Science & Engineering at Maharaja Agrasen Institute of Technology, New Delhi.<br><br>💻 I’m really passionate about software development, especially working with data structures and algorithms and building efficient backend systems. I enjoy solving problems, creating scalable solutions, and constantly exploring new technologies to improve my skills.
 
 
 ## 🌐 Socials:
